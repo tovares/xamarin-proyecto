@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+  <base-config>
+    <trust-anchors>
+      
+      <certificates src="@xml/random"/>
+      <certificates src="system"/>
+      <certificates src="user"/>
+    </trust-anchors>
+  </base-config>
+
+  <debug-config>
+    <trust-anchors>
+      
+      <certificates src="@xml/random"/>
+      <certificates src="system"/>
+      <certificates src="user"/>
+    </trust-anchors>
+  </debug-config>
+
+</network-security-config>
