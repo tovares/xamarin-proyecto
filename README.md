@@ -1,6 +1,7 @@
+# Proyecto Xamarin CENFOTEC 
 # Credit Card Checkout - A Xamarin.Forms UI Challenge 
 
-This UI Challenge is based on the fantastic dribble designs by [Antra Sharma](https://dribbble.com/antra03).
+Este proyecto esta basado en la UI Challenge diseñado por  [Antra Sharma](https://dribbble.com/antra03).
 
 ## Dribble Design
 
